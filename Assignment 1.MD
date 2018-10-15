@@ -1,4 +1,14 @@
+#  HND in Cyber Security
+
+
 # Computer-Systems-Architecture
+
+
+# Assignment 1 
+
+
+# Humza Ahmed
+
 
 **Task 1** 
 
@@ -64,14 +74,20 @@ The main functions of the BIOS are:
 
 
 
+**Task 3**
+
+# Review of task 2 
+
+
+For task 2 a program was created to make a set of traffic light up in the right order and light up at the right time. Binary code was used to tell which colour to light up in that moment.
+
+The simulator used an eight bit CPU which 256 bytes of RAM. The speed can be changed by the buttons on the simulator.  
 
 
 
+**Fetch-Decode-Execute Cycle**
 
 
-
-
-# Fetch-Decode-Execute Cycle 
 This is a process where the computer obtains a program instruction from its memory, then it finds out what sort of actions the instructions is asking for, lastly it performs the action. This cycle happens again and again by the CPU from the boot up and stops when the computer has shut down.
 
 Fetch
@@ -85,6 +101,12 @@ The CPU is made to recognize a certain set of commands. These are known as the i
 Execute 
 
 In this section of the cycle the data will be processed. The instruction is taken place upon the data. The result of the process will be placed in another register. When this stage is complete, the CPU will begin another cycle.
+
+
+This cycle can be related to my traffic lights simulator. Firstly, some data will be recieved, this is the hexadecimal number. it will then store it and decode it into binary form and then execute it into the traffic light.
+
+![screenshot](https://i.imgur.com/3vtLAKe.png)
+
 
 
 
