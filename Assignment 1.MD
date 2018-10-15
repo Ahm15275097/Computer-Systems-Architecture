@@ -1,5 +1,76 @@
 # Computer-Systems-Architecture
 
+**Task 1** 
+
+![Poster](https://i.imgur.com/HrPz14v.png)
+
+# The subsystems of a computer 
+
+There are many components that form together to make a computer. Each component has a particular task that it is required to do to run the computer.
+
+
+**Central processing unit**: 
+
+The CPU does most of the work inside the computer. This component dictates instructions and data flow to and from other areas of the computer. CPU has 2 components control unit and the arithmetic logic unit.
+
+
+**Memory**:
+
+The main reason for memory is to keep a record of information. There are two main chips which make up the internal memory of a computer. RAM (random access memory) and ROM (read only memory). When a program has been accomplished, the commands are read from the machine code disk file into memory. The program is a pattern of commands stored in memory.
+
+
+**Input/Output (I/O)**: 
+
+These are devices that talk to the outside world. Some are directly connected with the user, for example keyboards, mouse, a screen. While others are machine readable, a program can read a file from the network.
+
+
+**Bus**: 
+
+The bus is a link between all the components. It acts as a communication pathway which has a protocol stating exactly how the pathway should be used.
+
+# Memory hierarchy and Storage systems
+
+The memory hierarchy is list of storage systems which is placed in a pyramid like table.  The storage systems are put in order of response time, whereby the fastest is at the top and slowest at the bottom.
+
+# Von Neumann Architecture 
+
+This architecture was first created in 1945. This is a design for a stored program computer which was created by John von Neumann. The design consists of a central processing unit, this has a control unit, arithmetic/logic unit and registers. The design also has a memory unit and input and output.  The control unit handles the workings in the ALU, memory and input/output. It informs these components on how to react to what the instructions are.  The registers are just a place where the data can be stored.
+
+
+# Basic input/output system 
+The Bios is a chip which is placed on a motherboard. This is a piece of hardware which allows the user to find and set up the computer’s system. 
+The main functions of the BIOS are: 
+
+**Post** - this something called the power on self-test.  The hardware is assessed here and it checks to see that there are no bugs or errors, after the operating system will load.
+
+**Bootstrap Loader** - This finds the operating system and then the bios will pass control to it. 
+
+**Bios drivers** - Drivers that allow the computer to handle the hardware 
+
+**Bios or Cmos set-up** - this is a program which allows configuration of things like passwords, date and time
+
+**Task 2**
+
+![1](https://i.imgur.com/h7J1Xto.png)
+![2](https://i.imgur.com/3vtLAKe.png)
+![3](https://i.imgur.com/RbYh2Ow.png)
+![4](https://i.imgur.com/n0CtM4i.png)
+![5](https://i.imgur.com/nssGeoJ.png)
+![6](https://i.imgur.com/4vWqsW5.png)
+![7](https://i.imgur.com/XS01hkY.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Fetch-Decode-Execute Cycle 
 This is a process where the computer obtains a program instruction from its memory, then it finds out what sort of actions the instructions is asking for, lastly it performs the action. This cycle happens again and again by the CPU from the boot up and stops when the computer has shut down.
 
