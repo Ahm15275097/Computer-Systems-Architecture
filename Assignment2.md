@@ -18,6 +18,7 @@ The OS architecture known as monolithic kernel is where the whole operating syst
 
 An application program interface (API) is an arrangement of schedules, conventions, and devices for building programming applications. An API determines how programming parts should talk to each other. Furthermore, APIs are utilised when programming GUI parts.
 
+Microsoft's main set of application programming interfaces is available 
 
 
 
