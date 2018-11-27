@@ -18,7 +18,20 @@ The OS architecture known as monolithic kernel is where the whole operating syst
 
 An application program interface (API) is an arrangement of schedules, conventions, and devices for building programming applications. An API determines how programming parts should talk to each other. Furthermore, APIs are utilised when programming GUI parts.
 
-Microsoft's main set of application programming interfaces is available 
+
+The windows API allows the capability to develop applications that run effectively on all forms of windows while making use of the features and abilities that are different to each version.This API can be utilised in all windows based applications, and the similar capabilities are available on 32-bit and 64-bit windows. The way they are integrated are different depending on the specification of the operating system.
+
+
+**File system**
+
+NTFS (New Technology File System) is the file system that windows 10 uses, it is used for holding and retrieving files which are on the hard disk. It's performance, extendability and security is a much more improved system than the file allocation table (FAT) which was used on windows 95.
+
+
+**Memory management**
+
+The way in which memory is handled and coordinated is generally what memory management is. It allocares portions known as blocks to many different running programs to enhance the overall performance of the system. Memory management lives in the hardware, the operating system, and also in programs and applications.
+
+In the different locations where memory management takes place, 
 
 
 
