@@ -31,7 +31,10 @@ NTFS (New Technology File System) is the file system that windows 10 uses, it is
 
 The way in which memory is handled and coordinated is generally what memory management is. It allocares portions known as blocks to many different running programs to enhance the overall performance of the system. Memory management lives in the hardware, the operating system, and also in programs and applications.
 
-In the different locations where memory management takes place, 
+Components that physically hold information, for example RAM (random access memory)chips, memory caches, and flash-based SSDs (solid-state drives) are to do with memory management which is in hardware.The assignment and reassignment of particular memory blocks to individual programs as a user requests change. The memory management for applications makes sure that there is enough memory for the objects and data structures of each running program at all times. This type of memory management combines tasks such as allocation and recycling. An allocater will assign a block of memory to the program and when a program doesnt require data anymore the blocks can be used for reallocation.
+
+
+
 
 
 
