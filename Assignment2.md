@@ -91,3 +91,63 @@ The client has a choice between choosing Windows 10 or Mac OS X. Here are the di
  
  # Networking 
  ![Task 2](https://i.imgur.com/1gcckq4.png)
+ 
+Physical Topologies
+
+The physical topology is the way components are laid out on a network. Generally, all local area networks have a topology, it is the method that the components on a network are arranged and how they interact with each other. It is how the computers are linked to the network through the cables. 
+
+Logical Topologies
+
+
+The logical topology is the way the information behaves on a network media, it is the way that data is transmitted through the network from one device to another. This doesn’t take into account the physical connection between the devices.
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+ 
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+ 
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+ 
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+ 
+
+
+
+ 
