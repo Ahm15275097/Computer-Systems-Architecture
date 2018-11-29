@@ -5,7 +5,9 @@ In this report I will be going through a few operating systems, why they are use
 
 On July 29, 2015 Microsoft released a brand new operating system, this was Windows 10. This is part of the Windows NT family of operating system and is a successor to windows 8.1. Windows 10 is a closed source operating system, this means the source code is not accessble to the public, they cannot see it or make changes to it. 
 
-# Windows OS kernel
+** Windows OS kernel**
+
+
 A computer program known as kernel is the main part of the the computer's operating system. The kernel has full control over everything in the system. Usually, after the bootloader this is one of the first programs to be loaded. It controls the rest of the start-up and also receives information from input and output, turning them into data-processing instructions for the CPU.
 
 Windows 10 has a kernel type which is hybrid, this means it tries to have aspects and good features of both microkernel and monolithic kernel architectures. 
@@ -43,25 +45,27 @@ The memory manager integrates virtual memory, gives a main set of services like 
 
 # Mac OS X
 
-This is an operating which is used for Apple. This is an operating sytem which focusses on modularity so that when changes happen it would be easy to incorporate. OS X integrates support for unix based applications and also those which are written only for macintosh. This operating system was released on the 24th of March 2001, since then many upgrades have taken place. 
+This is an operating which is used for Apple. This is an operating sytem which focusses on modularity so that when changes happen it would be easy to incorporate. OS X integrates support for unix based applications and also those which are written only for macintosh. This operating system was released on the 24th of March 2001, since then many upgrades have taken place. This operating system comes from the family of macintosh, unix and is a closed source model.  
 
 **Mac OS kernel**
 
 
+The kernel type for this operating system is XNU which has been developed since December 1996. This is a free and open source software. It is written in C or C++ and is a hybrid kernel type, meaning it takes the good features of both monolithic and microkernel architectures.
+
+**Application programming interface**
+
+Apple have developed their very own applicaton programming interface known as Cocoa. This API can be written in C, C++, Objective-C or swift. It is a closed source software but can have some features which are open source. Applications to do with Cocoa are mainly developed using tools that are given by Apple, these are Xcode and Interface Builder. 
 
 
+**File system**
+
+Apple have their own file system which is known as APFS (Apple File System), it is a closed source file system and designed for newer versions of Apple's operating system. This can be for the High Sierra and later versions, IOS 10.3 and later versions, or even the tvOS 10.2 and later versions. This was designed on March the 27th, 2017 and was made to try and fix the problems that HFS+(MAC OS Extended) had. APFS is made better for flash and solid state drive, with it focussing on encryption.
 
 
+**Memory management**
 
 
-
-
-
-
-
-
-
-
+**User Interface**
 
 
 
@@ -82,3 +86,8 @@ The client has a choice between choosing Windows 10 or Mac OS X. Here are the di
  - RAM            :  At least 1 GB of RAM (additional RAM is recommended)
  - Graphics card  :  A built-in display or a display connected to an Apple-supplied video card supported by your computer
  - Hard disk space:  Hard at least 5 GB of disk space available, or 7 GB of disk space if you install the developer tools
+ 
+ **Application software requirements**
+ 
+ # Networking 
+ ![Task 2](https://i.imgur.com/1gcckq4.png)
