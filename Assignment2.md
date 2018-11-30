@@ -89,6 +89,28 @@ The client has a choice between choosing Windows 10 or Mac OS X. Here are the di
  
  **Application software requirements**
  
+ **Data and system security**
+
+**Windows**
+
+Any operating system that is in use can have a security breach but windows protects the user from being attacked. Microsoft have many features that are integrated into their system to help the user, for example doing windows updates. Microsoft try to make their system as secure as possible when they release it. However, hackers can find weaknesses very quickly and they take advantage by breaking into a network or stealing data. While hackers are finding weaknesses in the system, microsoft are finding ways to repair the issues and help solve the problem. This can be done by the regular updates that microsoft encourage the user to do. Normally, microsoft send out an update as soon as a potential security threat is discovered, this can help the system be protected from threats that could occur.
+
+Another way that Microsoft can help the system from being attacked is by installing Anti-Virus. Stopping viruses/malware and intruders is very important in protecting the data and personal information on the system. Cyber criminals will uses things like viruses and malware to try to get into your computer. An anti-virus has real-time monioring that allows the software to recognize and nulify malicous software before it can install itself and compromise the computer. 
+
+**Mac OS**
+
+Similar to the windows operating system the mac OS allows the user to run the latest software. The OS looks for new updates, so its very easy to continuously have the latest and safest version.
+
+The Mac OS has something called FileVault 2, this makes the information safe and secure. FileVault 2 encrypts the whole drive shielding the data with XTS-AES 128 encryption. On Mac devices that have an Apple Tw chip, Filevault 2 key are created and shielded by secure enclave.
+
+The runtime protections in the system operates at the very heart of the Mac. XD (execute disable), Address Space Layout Randomisation (ASLR) and Kernel ASLR can make it very hard for malware to perform or do harm via memory or other apps. System Integrity Protection (SIP) makes sure that if malware can reach the system, really important changes will not happen to the system.
+
+**Error management**
+
+
+
+ 
+ 
  # Networking 
  ![Task 2](https://i.imgur.com/1gcckq4.png)
  
@@ -108,6 +130,24 @@ The logical topology is the way the information behaves on a network media, it i
 
 
 # OSI model vs TCP/IP model
+
+The Open Systems Interconnection model (OSI model) is a model that specifies the communication functions of a system without it taking into account its internal structure. The target of this model is to exchange and make use of information of various communication system with standard protocols. 
+
+
+
+7.  Application layer
+
+6.  Presentation layer
+
+5.  Session layer
+
+4.  Transport layer
+
+3.  Network layer
+
+2.  Data link layer
+
+1.  Physical layer
 
 
 
