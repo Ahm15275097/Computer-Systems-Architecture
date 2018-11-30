@@ -109,6 +109,12 @@ The runtime protections in the system operates at the very heart of the Mac. XD 
 
 When an error occurs on the windows 10 platform a blue screen appears and the system has crashed. This is when the operating system has arrived at a condition where the program can no longer run. Microsoft gives the user many tools and alot of assistance to try and find a solution. For example, the user can refresh the system, do a system restore or go back to previous build. There is alot of help for the user.  
 
+The way the MAC operating system assists with errors is by giving the user error codes. This isn't very useful because there aren't fully described solutions for the user. 
+
+**Performance**
+
+Windows 10 and MAC os perform vey well, however micorosft operating system has the potential to perform even better because it is not restricted by hardware. High performing additional hardware can easily be integrated into the operating system. This can't be said about the MAC operating system as apple make thier own hardware, improving their system is very difficult.  
+
 
 
  
@@ -225,6 +231,17 @@ The internet protocol suite is a conceptual model which has communications proto
 
 ![TCP/IP MODEL with protocols](https://i.imgur.com/6TxmzDH.jpg)
 
+Main differences:
+
+- TCP/IP is a model which is used for client server, when the client asks for a serice it is given by the server. The OSI is a conceptual model
+
+- TCP/IP is a standard prtocol which is utilised for all networks, this also is used for the internet. The OSI is not a protocol, it is a reference model which is utilised for understanding and designing the architecture.
+
+- TCP/IP consists of four layers whereas the OSI consists of seven. 
+
+- TCP/IP goes from top to bottom but the OSi model follows the bottom up approach.
+
+- TCP/IP follows a vertical approach but the osi model follows the horizontal approach 
 
 
 
