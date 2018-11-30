@@ -107,11 +107,70 @@ The runtime protections in the system operates at the very heart of the Mac. XD 
 
 **Error management**
 
+When an error occurs on the windows 10 platform a blue screen appears and the system has crashed. This is when the operating system has arrived at a condition where the program can no longer run. Microsoft gives the user many tools and alot of assistance to try and find a solution. For example, the user can refresh the system, do a system restore or go back to previous build. There is alot of help for the user.  
+
 
 
  
  
  # Networking 
+ 
+![Server config](https://i.imgur.com/wXPXbB4.png)
+
+The first thing that I did was configure the server. I gave it an IP address and a subnet mask 
+
+IP address:192.168.5.3
+
+Subnet Mask:255.255.255.0
+
+Default Gateway: 0.0.0.0
+
+DNS Server: 0.0.0.0
+
+![PC 1 config](https://i.imgur.com/qSFM32S.png)
+
+Next the first PC needed to be configured.
+
+IP address: 192.168.5.1
+
+Subnet Mask: Subnet Mask:255.255.255.0
+
+Default Gateway: 0.0.0.0
+
+DNS Server: 0.0.0.0
+
+![PC 0 config](https://i.imgur.com/Unr6Z0o.png)
+
+Next the second PC needed to be configured.
+
+IP address: 192.168.5.2
+
+Subnet Mask:255.255.255.0
+
+Default Gateway: 0.0.0.0
+
+DNS Server: 0.0.0.0
+
+![Reply](https://i.imgur.com/e5tUbt5.png)
+
+The PC labelled as pc1 was used to ping the server, if a reply was received this meant that the server and the pc could communicate with each other. As you can see from the image above a connection was established.
+
+![email setup](https://i.imgur.com/gw8qJWn.png)
+Here the e-mail service was configured. 
+
+![Http proof](https://i.imgur.com/FPMlM1h.png)
+The above image shows that http service works correctly
+
+![DNS](https://i.imgur.com/Uu9idvZ.png)
+
+Lastly the DNS server had to be correctly set up.
+
+
+
+
+
+
+
  ![Task 2](https://i.imgur.com/1gcckq4.png)
  
 Physical Topologies
