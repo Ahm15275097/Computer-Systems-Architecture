@@ -135,19 +135,19 @@ The Open Systems Interconnection model (OSI model) is a model that specifies the
 
 
 
-7.  Application layer
+- Application layer
 
-6.  Presentation layer
+- Presentation layer
 
-5.  Session layer
+- Session layer
 
-4.  Transport layer
+- Transport layer
 
-3.  Network layer
+- Network layer
 
-2.  Data link layer
+- Data link layer
 
-1.  Physical layer
+- Physical layer
 
 
 
