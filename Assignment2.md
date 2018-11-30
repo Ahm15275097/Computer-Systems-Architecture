@@ -150,6 +150,29 @@ The Open Systems Interconnection model (OSI model) is a model that specifies the
 - Physical layer
 
 
+![OSI MODEL with protocols](https://i.imgur.com/aYCqSho.png)
+
+
+The internet protocol suite is a conceptual model which has communications protocols which are utilised on the internet and similar computer networks. The TCP/IP model was created by department of defense. It has four layers, whith it each having its own protocols. Internet Protocols are the regulations defined for communication over the network. TCP controls data transmission and IP controls addresses. This is robust and flexible and mainly used for interconnecting PC's over the internet. 
+
+- Application layer
+
+- Transport layer
+
+- Networking layer
+
+- Data link layer
+
+
+![TCP/IP MODEL with protocols](https://i.imgur.com/6TxmzDH.jpg)
+
+
+
+
+
+
+
+
 
 
  
