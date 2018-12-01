@@ -42,6 +42,7 @@ The memory manager integrates virtual memory, gives a main set of services like 
 
 
 **User interface**
+Microsoft developers wanted the very best for thier windows 10 operating. So they integrated the features from windows 8 and windows 7 to make a very good user interface. When you open start 
 
 # Mac OS X
 
