@@ -64,14 +64,12 @@ Apple have their own file system which is known as APFS (Apple File System), it 
 
 
 **Memory management**
-Application memory management is the way the memory has been allocated during the runtime of the program, it is the way the memory has been used and letting it go once it has been used. A good program will try to use as little program as possible. In the programming language objective c,  it can also share ownership of limited memory resources among many pieces of data and code.
+Application memory management is the way the memory has been allocated during the runtime of the program, it is the way the memory has been used and letting it go once it has been used. A good program will try to use as little program as possible. In the programming language objective c,  it can also share ownership of limited memory resources among many pieces of data and code.In the method known  as manual retain-release or MRR, memory is managed by keeping track of objects you own. This is implemented using a model, called reference counting, that the Foundation class NSObject gives in addition with the runtime environment.
 
-In the method known  as manual retain-release or MRR, memory is managed by keeping track of objects you own. This is implemented using a model, called reference counting, that the Foundation class NSObject gives in addition with the runtime environment.
-
-In Automatic Reference Counting, or ARC, the system uses the same reference counting system as MRR, but it inserts the appropriate memory management method calls for you at compile-time. You are strongly encouraged to use ARC for new projects. If you use ARC, there is typically no need to understand the underlying implementation described in this document, although it may in some situations be helpful. For more about ARC, see Transitioning to ARC Release Notes.
 
 
 **User Interface**
+The graphical user interface for the mac OS is known as Aqua. It is based on the idea of water, it consists of reflection effects and translucency with droplet-like components. The aim of the interface is to integrate colour,depth, complex textures so that that applications look visually appealing.
 
 
 
