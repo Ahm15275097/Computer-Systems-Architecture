@@ -42,7 +42,7 @@ The memory manager integrates virtual memory, gives a main set of services like 
 
 
 **User interface**
-Microsoft developers wanted the very best for thier windows 10 operating. So they integrated the features from windows 8 and windows 7 to make a very good user interface. When you open start 
+Microsoft have developed a very efficient and aesthetically pleasing user interface. The desktop has been redesigned to look more like the windows 7. Applications can be pinned to the taskbar, desktop or even the start menu. The start menu now has tiles which is made to look like the previous windows 8. When the start menu is open the list of programs are on the left side and the customisable tiles are on the right hand side.
 
 # Mac OS X
 
@@ -64,6 +64,11 @@ Apple have their own file system which is known as APFS (Apple File System), it 
 
 
 **Memory management**
+Application memory management is the way the memory has been allocated during the runtime of the program, it is the way the memory has been used and letting it go once it has been used. A good program will try to use as little program as possible. In the programming language objective c,  it can also share ownership of limited memory resources among many pieces of data and code.
+
+In the method known  as manual retain-release or MRR, memory is managed by keeping track of objects you own. This is implemented using a model, called reference counting, that the Foundation class NSObject gives in addition with the runtime environment.
+
+In Automatic Reference Counting, or ARC, the system uses the same reference counting system as MRR, but it inserts the appropriate memory management method calls for you at compile-time. You are strongly encouraged to use ARC for new projects. If you use ARC, there is typically no need to understand the underlying implementation described in this document, although it may in some situations be helpful. For more about ARC, see Transitioning to ARC Release Notes.
 
 
 **User Interface**
@@ -90,6 +95,9 @@ The client has a choice between choosing Windows 10 or Mac OS X. Here are the di
  
  **Application software requirements**
  
+Depending on what the user needs from the computer, they would need a computer that has a certain type of hardware requirements. For example a office based user will not require the best specifcation for thier computer as they will only be running small applicaiton such as office. However, a media producer might need a computer that has very good hardware requirements such as alot of RAM, a fast processor and a very good graphics card.  
+  
+  
  **Data and system security**
 
 **Windows**
