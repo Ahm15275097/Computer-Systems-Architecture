@@ -79,10 +79,7 @@ The main functions of the BIOS are:
 # Review of task 2 
 
 
-For task 2 a program was created to make a set of traffic light up in the right order and light up at the right time. Binary code was used to tell which colour to light up in that moment.
-
-The simulator used an eight bit CPU which 256 bytes of RAM. The speed can be changed by the buttons on the simulator.  
-
+For task 2 a program was created to make a set of traffic lights, light up in the right order and light up at the right time. Binary code was used to tell which colour to light up in that moment. The simulator used an eight bit CPU which had 256 bytes of RAM. This has a major effect on the performance on the program. For this program the architecture of the CPU was capable to process the speed of this program, however for a more complex program an eight bit program will not be appropriate. The CPU is dependent on how on fast the RAM  is. In this case it had 256 bytes which made this system very slow. 
 
 
 **Fetch-Decode-Execute Cycle**
